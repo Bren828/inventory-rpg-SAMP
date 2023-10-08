@@ -1,1 +1,1 @@
-# inventory-rpg-samp
+# inventory-RPG-SAMP
