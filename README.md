@@ -6,6 +6,9 @@ Inventory for SAMP
 
 ![Crosshair](https://raw.githubusercontent.com/Bren828/inventory-rpg-SAMP/main/preview.gif)
 
+## Dependencies
+* [progress2](https://github.com/Southclaws/progress2)
+
 ## Installation
 Include in your code:
 ```pawn
