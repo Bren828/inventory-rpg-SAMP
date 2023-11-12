@@ -2,6 +2,8 @@
 
 Inventory for SAMP
 
+[**First version**](https://github.com/Bren828/inventory-SAMP)
+
 **TextDraw only**
 
 ![Crosshair](https://raw.githubusercontent.com/Bren828/inventory-rpg-SAMP/main/preview.gif)
